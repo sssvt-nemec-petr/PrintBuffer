@@ -1,0 +1,16 @@
+C:\Users\nempe\Desktop\PrintBufferCon\bin\Debug\net5.0\PrintBufferCon.exe
+C:\Users\nempe\Desktop\PrintBufferCon\bin\Debug\net5.0\PrintBufferCon.deps.json
+C:\Users\nempe\Desktop\PrintBufferCon\bin\Debug\net5.0\PrintBufferCon.runtimeconfig.json
+C:\Users\nempe\Desktop\PrintBufferCon\bin\Debug\net5.0\PrintBufferCon.runtimeconfig.dev.json
+C:\Users\nempe\Desktop\PrintBufferCon\bin\Debug\net5.0\PrintBufferCon.dll
+C:\Users\nempe\Desktop\PrintBufferCon\bin\Debug\net5.0\ref\PrintBufferCon.dll
+C:\Users\nempe\Desktop\PrintBufferCon\bin\Debug\net5.0\PrintBufferCon.pdb
+C:\Users\nempe\Desktop\PrintBufferCon\obj\Debug\net5.0\PrintBufferCon.csproj.AssemblyReference.cache
+C:\Users\nempe\Desktop\PrintBufferCon\obj\Debug\net5.0\PrintBufferCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nempe\Desktop\PrintBufferCon\obj\Debug\net5.0\PrintBufferCon.AssemblyInfoInputs.cache
+C:\Users\nempe\Desktop\PrintBufferCon\obj\Debug\net5.0\PrintBufferCon.AssemblyInfo.cs
+C:\Users\nempe\Desktop\PrintBufferCon\obj\Debug\net5.0\PrintBufferCon.csproj.CoreCompileInputs.cache
+C:\Users\nempe\Desktop\PrintBufferCon\obj\Debug\net5.0\PrintBufferCon.dll
+C:\Users\nempe\Desktop\PrintBufferCon\obj\Debug\net5.0\ref\PrintBufferCon.dll
+C:\Users\nempe\Desktop\PrintBufferCon\obj\Debug\net5.0\PrintBufferCon.pdb
+C:\Users\nempe\Desktop\PrintBufferCon\obj\Debug\net5.0\PrintBufferCon.genruntimeconfig.cache
